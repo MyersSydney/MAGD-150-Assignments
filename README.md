@@ -1,37 +1,13 @@
-## Welcome to GitHub Pages
-
-You can use the [editor on GitHub](https://github.com/squidmyers33/MAGD-150-Assignments/edit/gh-pages/README.md) to maintain and preview the content for your website in Markdown files.
-
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
-
-### Markdown
-
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
-
-```markdown
-Syntax highlighted code block
-
-# Header 1
-## Header 2
-### Header 3
-
-- Bulleted
-- List
-
-1. Numbered
-2. List
-
-**Bold** and _Italic_ and `Code` text
-
-[Link](url) and ![Image](src)
-```
-
-For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
-
-### Jekyll Themes
-
-Your Pages site will use the layout and styles from the Jekyll theme you have selected in your [repository settings](https://github.com/squidmyers33/MAGD-150-Assignments/settings). The name of this theme is saved in the Jekyll `_config.yml` configuration file.
-
-### Support or Contact
-
-Having trouble with Pages? Check out our [documentation](https://help.github.com/categories/github-pages-basics/) or [contact support](https://github.com/contact) and we’ll help you sort it out.
+#MAGD-150-Assignments
+#Lab 4
+  Lab 4's assignment prompt was Oceans(Pizza?). For this code we needed algebric functions, which I used to make my bezier lines behind my pizza move. I also made my pizza interactive, allowing you to change the pizza toppings at the press of a key or the click of a mouse. 
+#lab 6
+  Lab 6's assignment prompt was weather. I created a rain storm using simple vector codes to repeatedly create falling lines that were randomised blue. I also made lighting bolts apear on screen with the click of a mouse, I also created clouds using semi-transparent ellipses. I created these three elements in different classes as well. 
+#Lab 7
+  Lab 7's assignment prompt was carnival. For this prompt I created fireworks. Using PVectors and an array I had my fireworks constantly explode in the night sky. I created clouds out of semi-transparent ellipses that I transcribed around my display. I created stars that twinkled using a randomised color. I also included a moon which I rotated. 
+#Lab 8 
+  For Lab 8 I was asked to create a movie poster. We had to use text and have at least one interactive part. I created a "horror" movie poster using a creature I created on the first day of MAGD 150, I named it peep. The user first sees PEEP with my character on the screen, upon clicking the user sees the text "He's coming for you... run..."
+#Lab 9
+  Lab 9's prompt was documentary. I created a human documentary, using the front facing camera as my human example. When loaded my display would also play the song "Human" by Rag and Bone.
+#Lab 10
+  Lab 10 was the partner lab, my partner was my friend Leah Blasczyk. We created a solar system using Pshapes and spheres. We textured one of our pshapes as Jupiter. We also shaded our planets and sun using directional and ambient light codes. The planets also rotated around the sun using the rotateY code. 
